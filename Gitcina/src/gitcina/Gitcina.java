@@ -15,7 +15,7 @@ public class Gitcina {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int a, b;
+        int a, b;//jedi govna i ti
     }
     
 }
